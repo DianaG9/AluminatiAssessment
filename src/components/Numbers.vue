@@ -32,6 +32,7 @@ function reset()
 </script>
 
 <template>
+		<h1>MathDivider</h1>
 	<div>
 		<input  class="input_num" type="number" v-model="limit" /><br /><br />
 		<div class="number"
